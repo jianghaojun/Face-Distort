@@ -1,0 +1,12 @@
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\bin\Release\FaceDistort.exe.config
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\bin\Release\FaceDistort.exe
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\bin\Release\FaceDistort.pdb
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.Form1.resources
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.Properties.Resources.resources
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.csproj.GenerateResource.Cache
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.exe
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.pdb
+C:\Users\hjjiang\Desktop\numeric analysis\FaceDistort\FaceDistort\obj\Release\FaceDistort.csprojResolveAssemblyReference.cache
+C:\Users\hjjiang\Desktop\大三上\数值分析与算法\大作业\第一次大作业\FaceDistort\FaceDistort\bin\Release\FaceDistort.exe.config
+C:\Users\hjjiang\Desktop\大三上\数值分析与算法\大作业\第一次大作业\FaceDistort\FaceDistort\obj\Release\FaceDistort.exe
+C:\Users\hjjiang\Desktop\大三上\数值分析与算法\大作业\第一次大作业\FaceDistort\FaceDistort\obj\Release\FaceDistort.pdb
